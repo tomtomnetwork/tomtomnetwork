@@ -1,4 +1,4 @@
-<h1 align="center"> :zap:TOMTOM NETWORK👋 👉</h1>
+<h1 align="center"> 👉TOMTOM NETWORK👋 </h1>
 
 
 
