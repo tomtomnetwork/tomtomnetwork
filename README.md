@@ -13,3 +13,4 @@
 [![youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com)](https://www.youtube.com/user/TreinaWeb)
 [![glmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://gmail.com)](https://gmail.com)
 [![debian Badge](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&link=https://gmail.com)](https://debian.org)
+[![centos Badge](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white&link=https://gmail.com)](https://centos.org)
