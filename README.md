@@ -9,6 +9,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomtomnetwork&show_icons=true&theme=radical)
 
 
-[![Watsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=(https://api.whatsapp.com/send/?phone=5594992601696&text&type=phone_number&app_absent=0))]([https://www.youtube.com/user/TreinaWeb](https://api.whatsapp.com/send/?phone=5594992601696&text&type=phone_number&app_absent=0))
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://api.whatsapp.com/send/?phone=5594992601696&text&type=phone_number&app_absent=0)
+
 [![youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com)](https://www.youtube.com/user/TreinaWeb)
 [![glmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://gmail.com)](https://gmail.com)
